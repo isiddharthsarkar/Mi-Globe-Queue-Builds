@@ -1,0 +1,49 @@
+Changelogs by Siddharth_Sarkar
+  -- ROM Side Changelogs:
+	- Based on Android 10 Q
+	- Nov 1, 2020 Android Security Patch
+	- ROM OC to 3.15GHz
+	- Added Stabilty Mod v2.4 (Q Edition)
+	- Product Certified on Xiaomi Server
+	- AOD Added
+	- Custom AOD Skin Support Added	
+	- Unlimited AOD Skin Support Added
+	- Added Smiley's Game Booster
+	- Changed Device Accent Colour
+	- Added Direct Contact Support over My Device Page
+	- Added New Mi Globe Panel Style
+	- Added Indian Mi Music
+	- Added Mi Health
+	- Region set to India
+	- Added Mi Globe Android Security
+
+  -- Homescreen & Launcher Changelogs:
+	- Horizontal Recent Panel Added
+	- IOS Style Recent Panel Added
+	- Disabled Minus One Panel
+	- New App Icons Added
+
+  -- Lockscreen Changelogs:
+	- New and Improved Lockscreen Added
+	- Swipe Right to get more access of Lockscreen
+	- Center Clock on Lockscreen
+	- Added New Music Widget on Lockscreen
+
+  -- Kernel Side Changelogs:
+	- Booted with SkyArk 2.5 Spectrum 3.1
+	- Version: 3.18.138
+	- Spectrum based Modified Kernel
+ 
+  -- Audio Side Changelogs:
+	- Added Wavelet
+	- Added Acid Audio's ClearAudio+
+	- Added Dirac Audio Sound
+	- New Ringtones & Message Tones Added
+
+  -- Camera Side Chnagelogs:
+	- Google Camera GO Added
+	- Disabled Portrait Mode in Stock MIUI Camera
+	- Added Chroma Flash
+	- Improved AI Face Detection
+	- Improved AI Face Beauty
+	- Improved AI Scene Detection

@@ -1,0 +1,12 @@
+Changelogs by Rovi_TheCoolBoy:
+	- Added New Power Menu
+	- Fully Fixed FingerPrint
+	- Improved Face Unlock
+	- Fixed Mi Sync Related Bugs
+	- USB Tethering Working
+	- Added Xiaomi Parts
+	- Added FPS Info
+	- Fixed Cam Related Issues
+	- Fixed Mi Notes Crashing Issue
+	- Fixed Mi Video Crashing Issue
+	- Updated Vendor Blobs

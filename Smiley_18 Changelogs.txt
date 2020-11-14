@@ -1,0 +1,16 @@
+Changelogs by Smiley_18:
+	- Added New Smooth UI Scripts
+	- Added New Touch Blobs
+	- Added New UI Sounds
+	- Updated GMS Files
+	- Updated CNE Network Blobs
+	- Added Dump TCS Files
+	- Fixed Network Drop Issues
+	- Added CPU Input Boost
+	- Added Customised Thermal-Engine-Conf
+	- Added 67Hz Screen Refresh Rate
+	- Added 90FPS PUBG Gaming Tweaks
+	- Added Thunder HotPlug & Alucard HotPlug
+	- Improved Audio Quality
+	- Added New Underthehood Performance Tweaks
+
