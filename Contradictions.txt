@@ -1,9 +1,9 @@
 Contradictions:
  - If you think it's a Copy of XL then it's partially true
- - I've took part on making of XL and Ricolino ROMs for Mido which were Released on July 16, 2021 and July 19, 2021
+ - I took part on making of XL and Ricolino ROMs for Mido which were Released on July 16, 2021 and July 19, 2021
  - At that time, XL and Ricolino ROMs both builded by Rambo (@Rambo203) and got released on IndieMIUI
  - I've permissions from both the Developer and from IndieMIUI
- - As per XDA OpenGPL, I've already credits to both Developer and the XL Labs too
+ - As per XDA OpenGPL, I've already gave credits to both Developer and the XL Labs too
  - As per Github Community Guidelines, if I worked on someone project then I can use some parts of it
- - From my point of view, I don't see any point to take permissions from current rom maintainer who is almost Ded AF
+ - From my point of view, I don't see any point to take permissions from current rom maintainer who is almost Ded and Retard AF
  - I think that's enough to clear all the contradictions
