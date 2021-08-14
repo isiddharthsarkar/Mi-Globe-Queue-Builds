@@ -1,0 +1,54 @@
+Source Changelogs:
+ - Enabled search gesture (swipe up) on the desktop
+ - MIUI Contacts and Dialer
+ - Dark Mode (Night Mode) for all devices
+ - Removed ads in MIUI system apps
+ - MIUI Dialer and Messages apps
+ - Face Unlock for all devices
+ - Vertical clock widget on lockscreen
+ - Steps counter in Assistant screen
+ - More shortcuts on left lockscreen
+ - Wake up gestures for all devices
+ - AI preloading option in MIUI Lab for all devices
+ - Fullscreen gestures for all devices
+ - Option to auto-expand first notification
+ - Notifications priority settings
+ - More edit options in Gallery app
+ - Enabled MiDrive in File Explorer
+ - Added landscape mode for SMS app
+ - Sunrise/Sunset in the weather app
+ - Google apps support integrated
+ - Removed 5GHz region restrictions
+ - Confirm dials from call logs
+ - Morning report on alarm at morning
+ - More apps supported for AOD notifications
+ - More styles for AOD screen
+ - Raise to wake gesture
+ - AOD notification received animation
+ - Default volume control stream toggle
+ - Tap fingerprint sensor to wake toggle
+ - Double tap to lock screen
+ - Battery AI scenes
+ - Allowed disabling specific system apps
+ - Importing theme .mtz
+ - No useless Chinese bloatware apps
+ - More free RAM due to less background processes
+ - Unified systemwide flat style app icons
+ - Advanced menu with color icons
+ - Added real 27 languages translation
+ - Added EU T9 dialer support
+ - Added charging sound switch
+ - Added Screen-OFF animation
+ - Optimized GPS settings for Asia
+ - Optimized Battery consumption
+ - Optimized RAM consumption
+ - Added GSMalphabet into SMS app options
+ - Added more icons grid layout 4x5, 4x6, 4x7, 5x5, 5x6, 5x7
+ - SafetyNet passed (Google Pay)
+ - Play Store Certified
+ - Deodexed
+ - Added automated tasks in Security app
+ - Added game speed booster
+ - Added erase module (magic elimination) to Gallery
+ - Fixed low volume sound via headphone
+ - Charging screen for all devices
