@@ -1,0 +1,21 @@
+Device Changelogs:
+ - Updated to Android 10 Q
+ - Android Security Patch Level Updated to August 1, 2021
+ - ROM themed as ColorOS
+ - Fixed Rainbow Bug in MIUI Camera
+ - Fixed WhatsApp VideoCall Bug
+ - Cast Working
+ - New Advanced Power Menu
+ - Improved Touch Response 
+ - Mi Sound Enhancer Working
+ - Merged with Performance Mod v3.0
+ - Compiled with Blek Mejik Mod v2.3
+ - Enhanced Sound Quality
+ - Made for Daily Usage
+ - Added New MIUI 13 File Manager
+ - Added Sony Music App [For Ad-Free Music Experience]
+ - Added Otaku Wallpapers
+ - Merged with 3.18 UG Final Kernel
+ - Redesiged Whole Settings Page
+ - CTS pass without root & With Root
+ - Made in Collaboration with XL Labs
